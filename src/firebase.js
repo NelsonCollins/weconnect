@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDgbAnv4lhjwQdAwrTov2ApWvYNTQ9tqzY",
+    apiKey:
     authDomain: "weconnect-2bb87.firebaseapp.com",
     databaseURL: "https://weconnect-2bb87.firebaseio.com",
     projectId: "weconnect-2bb87",
